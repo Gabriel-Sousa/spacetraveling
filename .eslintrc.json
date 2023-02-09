@@ -80,7 +80,7 @@
         "allowExpressions": true
       }
     ],
-    "@typescript-eslint/camelcase": "off"
+    "@typescript-eslint/camelcase": "off",
   },
   "settings": {
     "react": {

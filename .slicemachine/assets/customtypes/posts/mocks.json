@@ -1,0 +1,74 @@
+{
+  "uid": {
+    "__TYPE__": "UIDContent",
+    "value": "trunk"
+  },
+  "title": {
+    "__TYPE__": "FieldContent",
+    "value": "price",
+    "type": "Text"
+  },
+  "subtitle": {
+    "__TYPE__": "FieldContent",
+    "value": "burn",
+    "type": "Text"
+  },
+  "author": {
+    "__TYPE__": "FieldContent",
+    "value": "exact",
+    "type": "Text"
+  },
+  "banner": {
+    "__TYPE__": "ImageContent",
+    "origin": {
+      "id": "main",
+      "url": "https://images.unsplash.com/photo-1571126770897-2d612d1f7b89",
+      "width": 3456,
+      "height": 3456
+    },
+    "url": "https://images.unsplash.com/photo-1571126770897-2d612d1f7b89",
+    "width": 3456,
+    "height": 3456,
+    "edit": {
+      "zoom": 1,
+      "crop": {
+        "x": 0,
+        "y": 0
+      },
+      "background": "transparent"
+    },
+    "thumbnails": {}
+  },
+  "content": {
+    "__TYPE__": "GroupContentType",
+    "value": [
+      {
+        "__TYPE__": "GroupItemContent",
+        "value": [
+          [
+            "heading",
+            {
+              "__TYPE__": "FieldContent",
+              "value": "key",
+              "type": "Text"
+            }
+          ],
+          [
+            "body",
+            {
+              "__TYPE__": "StructuredTextContent",
+              "value": [
+                {
+                  "type": "paragraph",
+                  "content": {
+                    "text": "Tempor excepteur velit proident ex ea sit ea do laboris ut proident. Labore deserunt nulla ipsum aute dolor aliquip sit pariatur."
+                  }
+                }
+              ]
+            }
+          ]
+        ]
+      }
+    ]
+  }
+}
